@@ -43,4 +43,4 @@ The dataset used for this project was sourced from Kaggle: [Bengaluru House Pric
 -   **Linear Regression Score (R²):** 0.76
 -   **Tuned Random Forest Regressor Score (R²):** 0.62
 
-The tuned Random Forest model provided the best performance, demonstrating its ability to capture more complex patterns in the data.
+The Linear Regression model provided the best performance, demonstrating its ability to capture more complex patterns in this particular given dataset.
